@@ -1,2 +1,2 @@
 # CSS-Flexbox-Javascript
-Recriando a página inicial do Instagram 
+Recriando a página de login do Instagram 
